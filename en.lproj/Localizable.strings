@@ -1,0 +1,8 @@
+/* 
+  Localizable.strings
+  LocalizationDemo
+
+  Created by abc on 8/17/17.
+  Copyright © 2017 hArsh. All rights reserved.
+*/
+"HelloKey" = "Hello";
